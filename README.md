@@ -7,3 +7,8 @@ Usage for Windows
 `pip install mediapipe PyQt5 opencv-python`
 
 `python main.py`
+
+
+Show
+
+<img src="./Snipaste_2025-11-04_09-19-04.png"width="50%" height="auto">
