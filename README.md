@@ -11,4 +11,4 @@ Usage for Windows
 
 Show
 
-<img src="./Snipaste_2025-11-04_09-19-04.png"width="50%" height="auto">
+<img src="Snipaste_2025-11-04_09-19-04.png" width="100%" height="auto">
